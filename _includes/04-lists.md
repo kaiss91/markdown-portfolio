@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Learn about Github
+- [ ] Learn markdown
+- [ ] Start with DS
