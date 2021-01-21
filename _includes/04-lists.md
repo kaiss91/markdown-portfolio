@@ -1,0 +1,3 @@
+- [ ] Learn about Github
+- [ ] Learn markdown
+- [ ] Start with DS
